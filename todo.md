@@ -2,7 +2,6 @@
 
 Organização por dia, com subdivisões: Covil do Jabuti, Guardarela, Lightus e Pessoal.
 
-
 ## 27/04/2026 — Segunda-feira
 
 ### Covil do Jabuti
