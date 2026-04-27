@@ -4,11 +4,15 @@
 ### Covil do Jabuti
 - [ ] gravar sessao de RPG
 
-### Lightus
+### Lightur
 - [ ] fechar proposta para Alpha Transportes
 
 ### Guardarela
 - [ ] montar ferramenta 3d
+
+## 29/04/2026 - Quarta-feira
+### Covil do Jabuti
+- [ ] contratar contabilidade para o Covil do Jabuti
 
 ## 04/05/2026 - Segunda-feira
 ### Covil do Jabuti
