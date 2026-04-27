@@ -1,9 +1,1 @@
-[
-  {
-    "tarefa": "Exemplo de tarefa",
-    "categoria": "Pessoal",
-    "status": "pendente",
-    "criada": "2026-04-27",
-    "concluidaEm": null
-  }
-]
+[{"tarefa":"Exemplo de tarefa","categoria":"Pessoal","status":"pendente"},{"tarefa":"Contratar Contador para o dia 29/04","categoria":"Covil","status":"pendente"}]
