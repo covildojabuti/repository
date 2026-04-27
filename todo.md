@@ -4,7 +4,7 @@
 ### Covil do Jabuti
 - [ ] gravar sessao de RPG
 
-### Laitos
+### Lightus
 - [ ] fechar proposta para Alpha Transportes
 
 ### Guardarela
