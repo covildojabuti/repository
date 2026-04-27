@@ -7,6 +7,9 @@
 ### Laitos
 - [ ] fechar proposta para Alpha Transportes
 
+### Guardarela
+- [ ] montar ferramenta 3d
+
 ## 04/05/2026 - Segunda-feira
 ### Covil do Jabuti
 - [ ] gravar sessao de RPG
